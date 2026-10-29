@@ -15,7 +15,7 @@ cliente custa mais do que oferecer um incentivo de retenção). Eu utilizei o Ju
 o modelo XGBoost treinado foi exportado, e este modelo foi integrado a um aplicativo web Streamlit para fornecer previsões em tempo real com base
 em novas entradas dos usuários, determinando se um cliente possui baixo ou alto risco de churn.
 
-<h3>🛠️ Tecnologias e Detalhes Técnicos</h3>
+<h3>Tecnologias e Detalhes Técnicos</h3>
 
 - **Linguagem de Programação**: Python
 - **Ambiente**: Jupyter Notebook (Prototipagem e Experimentação)
@@ -23,9 +23,12 @@ em novas entradas dos usuários, determinando se um cliente possui baixo ou alto
 - **Implantação do Modelo**: Modelo exportado integrado ao Streamlit
 - **Interface**: Streamlit (Aplicativo Web)
 
-<br>
+<h3>Dataset</h3>
 
-**Capturas de tela do aplicativo web:**
+- **Autor**: BlastChar  
+- **Link**: [Telco Customer Churn dataset](https://www.kaggle.com/datasets/BlastChar/telco-customer-churn)
+
+<h3>Capturas de tela do aplicativo web:</h3>
 
 <div align="center">
   <img src="img/Screenshot from 2026-10-29 10-38-16.png" alt="Project Screenshot" width="750"><br><br>
