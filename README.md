@@ -16,7 +16,7 @@ where the trained XGBoost model was exported, and this model was integrated into
 to deliver real-time predictions based on new user inputs, determining whether a customer has a low or high
 risk of churn.<br>
 
-<h3>🛠 Technologies and Technical Details</h3>
+<h3>Technologies and Technical Details</h3>
 
 - **Programming Language**: Python
 - **Environment**: Jupyter Notebook (Prototyping & Experimentation)
@@ -24,9 +24,12 @@ risk of churn.<br>
 - **Model Deployment**: Exported model integrated into Streamlit
 - **Interface**: Streamlit (Web Application)
 
-<br>
+<h3>Dataset</h3>
 
-**Web application screenshots:**<br>
+- **Author**: BlastChar  
+- **Link**: [Telco Customer Churn dataset](https://www.kaggle.com/datasets/BlastChar/telco-customer-churn)
+
+<h3>Web application screenshots:</h3>
 
 <div align="center">
   <img src="img/Screenshot from 2026-10-29 10-38-16.png" alt="Project Screenshot" width="750"><br><br>
